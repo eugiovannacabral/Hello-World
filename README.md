@@ -1,2 +1,2 @@
-# Hello World
-primeiro repositório de git
+# Hello World !
+Meu primeiro repositório usando git!
